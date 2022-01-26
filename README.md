@@ -1,5 +1,7 @@
 Below you will find some information on how to perform common tasks.<br>
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/62dae796-0f66-47a4-916c-c3380c60527a.svg?orgId=498499820349)](https://app.soluble.cloud/repos/details/github.com/jeffkwiat/form-builder?orgId=498499820349)  
+
 ## Questions
 
 - What should the placeholder be for each input field
